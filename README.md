@@ -3,8 +3,10 @@
   </p>
 
 # POKÉDEX
+
 ### Esteffany Arango & Siannet Flores
 >Proyecto Pokemon GO
+
 ## Índice
 
 * [1. Resumen del proyecto](#1-resumen-del-proyecto)
